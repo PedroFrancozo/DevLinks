@@ -1,6 +1,6 @@
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto para deixar links disponíveis do seu interesse e foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
